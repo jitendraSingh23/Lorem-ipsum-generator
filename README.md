@@ -8,7 +8,7 @@ A simple and small React+TS project for **lorem ipsum** text generation
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2025-01-01 190127](https://github.com/user-attachments/assets/5ad0b49c-86ec-4994-b35c-797abb94e143)
 
 
 ## Features
