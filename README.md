@@ -3,7 +3,7 @@
 
 A simple and small React+TS project for **lorem ipsum** text generation
 
-### [Vercel Demo](https://lorem-ipsum-q2qtrnpoy-jitendrasingh23s-projects.vercel.app/) ###
+### [Vercel Demo](https://lorem-ipsum-jitendrasingh23s-projects.vercel.app/) ###
 
 
 ## Screenshots
